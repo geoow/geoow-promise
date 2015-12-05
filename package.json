@@ -1,6 +1,6 @@
 {
   "name": "geoow-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES Promise polyfill",
   "main": "dist/geoow-promise.js",
   "scripts": {
