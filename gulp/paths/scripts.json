@@ -3,6 +3,6 @@
     "./src/**/*.js"
   ],
   "destinations": {
-    "js": "./dist/gulp-promise.js"
+    "js": "./dist/promise.js"
   }
 }
