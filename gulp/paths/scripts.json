@@ -1,0 +1,8 @@
+{
+  "js": [
+    "./src/**/*.js"
+  ],
+  "destinations": {
+    "js": "./dist/gulp-promise.js"
+  }
+}
